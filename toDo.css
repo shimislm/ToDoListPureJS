@@ -1,0 +1,7 @@
+.table .delete{
+    cursor: pointer;
+    text-align: center;
+}
+td , th{
+    text-align: center; 
+}
